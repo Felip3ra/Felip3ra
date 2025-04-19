@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Santana
+# 👨🏻‍💻 Felipe Santana
 
 **`Desenvolvedor FullStack`**
 
