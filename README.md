@@ -34,6 +34,14 @@ Me chamo Felipe Santana Santos, tenho 22 anos e sou de Santos. Sou formado em El
 />
 <img 
     align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -88,6 +96,14 @@ Me chamo Felipe Santana Santos, tenho 22 anos e sou de Santos. Sou formado em El
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native" 
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
